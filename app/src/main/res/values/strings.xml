@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coleção de Gibis</string>
+    <string name="revista">Nome da Revista</string>
+    <string name="titulo">Título</string>
+    <string name="numero">Número</string>
+    <string name="editora">Editora</string>
+    <string name="adicionar_gibi">Inserir um novo gibi</string>
+</resources>
